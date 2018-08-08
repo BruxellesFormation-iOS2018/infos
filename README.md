@@ -1,6 +1,7 @@
 # infos
 
 ## Swift
+  - iBook: https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11
   - Language Guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
   
 ## Xcode 
