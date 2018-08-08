@@ -1,6 +1,4 @@
-# infos
-
-## References
+# References
   - App Dev With Swift: 
     - iBooks: https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11
     - Labo: https://developer.apple.com/go/?id=app-dev-swift-student
@@ -8,7 +6,7 @@
     - iBooks: https://itunes.apple.com/be/book/introduction-au-d%C3%A9veloppement-dapps-avec-swift/id1215105788?mt=11
     - Labo: https://developer.apple.com/go/?id=intro-app-dev-curriculum-swift4
     
-## Swift
+# Swift
   - The Swift Programming Language: https://itunes.apple.com/be/book/the-swift-programming-language-swift-4-1/id881256329?mt=11
   
   - A Swift Tour: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
@@ -21,7 +19,7 @@
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
 
-## Xcode 
+# Xcode 
   - Download Xcode: https://itunes.apple.com/be/app/xcode/id497799835?mt=12
   - Download Xcode Version (outside Mac App Store): https://stackoverflow.com/a/10335943
   
