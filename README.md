@@ -14,7 +14,7 @@
   - A Swift Tour: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
   
   - Language Guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
-    - Constants & Variable: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+    - Constants & Variables: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
     - Operators Artihmetic & Logic: https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html
     - Strings: https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html
     - Functions: https://docs.swift.org/swift-book/LanguageGuide/Functions.html
