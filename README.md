@@ -1,7 +1,8 @@
 # infos
 
 ## Swift
-  - iBook: https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11
+  - iBook - App Dev With Swift: https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11
+          - Intro to App Dev With Swift: https://itunes.apple.com/be/book/introduction-au-d%C3%A9veloppement-dapps-avec-swift/id1215105788?mt=11
   - Language Guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
   
