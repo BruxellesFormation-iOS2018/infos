@@ -25,8 +25,8 @@
       - Initialization: https://docs.swift.org/swift-book/LanguageGuide/Initialization.html
       
       - Class Only
-        - ARC: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
         - Inheritance: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
+        - ARC: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
         - Deinitialization: https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
       
     
