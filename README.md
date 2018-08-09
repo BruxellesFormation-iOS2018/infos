@@ -24,6 +24,10 @@
       - Methods: https://docs.swift.org/swift-book/LanguageGuide/Methods.html
       - Initialization: https://docs.swift.org/swift-book/LanguageGuide/Initialization.html
       
+      [*Class Only]
+      - Inheritance: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
+      - Deinitialization: https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
+      
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
 
