@@ -21,6 +21,8 @@
     - Functions: https://docs.swift.org/swift-book/LanguageGuide/Functions.html
     - Structures & Classes: https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
       - Properties: https://docs.swift.org/swift-book/LanguageGuide/Properties.html
+      - Methods: https://docs.swift.org/swift-book/LanguageGuide/Methods.html
+      - Initialization: https://docs.swift.org/swift-book/LanguageGuide/Initialization.html
       
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
