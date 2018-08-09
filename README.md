@@ -24,7 +24,7 @@
       - Methods: https://docs.swift.org/swift-book/LanguageGuide/Methods.html
       - Initialization: https://docs.swift.org/swift-book/LanguageGuide/Initialization.html
       
-      [*Class Only]
+      * Class Only
       - Inheritance: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
       - Deinitialization: https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
       
