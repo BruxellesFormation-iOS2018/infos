@@ -14,7 +14,7 @@
   
   - A Swift Tour: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
   
-  - Language Guide: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
+  - Language Guide:
     - Constants & Variables: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
     - Operators Artihmetic & Logic: https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html
     - Strings: https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html
@@ -26,8 +26,8 @@
       
       - Class Only
         - Inheritance: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
-        - ARC: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
         - Deinitialization: https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
+        - ARC: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
       
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
