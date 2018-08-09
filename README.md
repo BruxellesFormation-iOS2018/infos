@@ -20,6 +20,8 @@
     - Strings: https://docs.swift.org/swift-book/LanguageGuide/StringsAndCharacters.html
     - Functions: https://docs.swift.org/swift-book/LanguageGuide/Functions.html
     - Structures & Classes: https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
+      - Properties: https://docs.swift.org/swift-book/LanguageGuide/Properties.html
+      
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
 
