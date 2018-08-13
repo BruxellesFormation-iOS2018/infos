@@ -28,6 +28,8 @@
         - Inheritance: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
         - Deinitialization: https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
         - ARC: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
+    - Collections: https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
+      - Subscripts: https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html#
       
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
