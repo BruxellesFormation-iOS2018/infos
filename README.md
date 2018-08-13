@@ -30,7 +30,7 @@
         - ARC: https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html
     - Collections: https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
       - Subscripts: https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html#
-      
+    - Loops: https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
 
