@@ -14,6 +14,8 @@
   
   - A Swift Tour: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
   
+  
+  
   - Language Guide:
     - Constants & Variables: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
     - Operators Artihmetic & Logic: https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html
@@ -23,7 +25,6 @@
       - Properties: https://docs.swift.org/swift-book/LanguageGuide/Properties.html
       - Methods: https://docs.swift.org/swift-book/LanguageGuide/Methods.html
       - Initialization: https://docs.swift.org/swift-book/LanguageGuide/Initialization.html
-      
       - Class Only
         - Inheritance: https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
         - Deinitialization: https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
@@ -31,9 +32,12 @@
     - Collections: https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
       - Subscripts: https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html#
     - Loops: https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
+    - Optionals: https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
 
+
+  - Optionals: https://developer.apple.com/videos/play/wwdc2016/404/?time=603
 # Xcode 
 
   - Download Xcode: https://itunes.apple.com/be/app/xcode/id497799835?mt=12
