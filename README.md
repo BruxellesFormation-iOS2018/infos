@@ -32,7 +32,7 @@
     - Collections: https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html
       - Subscripts: https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html#
     - Loops: https://docs.swift.org/swift-book/LanguageGuide/ControlFlow.html
-    - Optionals: https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html
+    - Optionals: https://developer.apple.com/documentation/swift/optional https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html
     - Type Casting & Inspection: https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html#//apple_ref/doc/uid/TP40014097-CH22-ID338
     
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
