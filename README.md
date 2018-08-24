@@ -12,8 +12,7 @@
 
   - The Swift Programming Language: https://itunes.apple.com/be/book/the-swift-programming-language-swift-4-1/id881256329?mt=11
   
-  - A Swift Tour: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
-  
+  - A Swift Tour: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html  
   
   
   - Language Guide:
@@ -52,3 +51,5 @@
   
   
   - UIKit Views & Controls: https://developer.apple.com/documentation/uikit/views_and_controls
+  
+  - Code Documentation: https://nshipster.com/swift-documentation/
