@@ -35,6 +35,7 @@
     - Type Casting & Inspection: https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html#//apple_ref/doc/uid/TP40014097-CH22-ID338
     - Enumerations: https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html
     - Protocols: https://docs.swift.org/swift-book/LanguageGuide/Protocols.html
+    - Closures: https://docs.swift.org/swift-book/LanguageGuide/Closures.html
     - Extensions: https://docs.swift.org/swift-book/LanguageGuide/Extensions.html
     - Do/Try/Catch: https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html
     
