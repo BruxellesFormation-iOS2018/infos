@@ -35,10 +35,12 @@
     - Type Casting & Inspection: https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html#//apple_ref/doc/uid/TP40014097-CH22-ID338
     - Enumerations: https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html
     
+    
+  - Completion Handler Demo: https://github.com/BruxellesFormation-iOS2018/infos/blob/master/CompletionHandler.playground.zip
+
   - Sample Code: https://developer.apple.com/library/archive/navigation/index.html#topic=Sample+Code&section=Resource+Types
 
 
-  - Optionals: https://developer.apple.com/videos/play/wwdc2016/404/?time=603
 # Xcode 
 
   - Download Xcode: https://itunes.apple.com/be/app/xcode/id497799835?mt=12
@@ -53,3 +55,5 @@
   - UIKit Views & Controls: https://developer.apple.com/documentation/uikit/views_and_controls
   
   - Code Documentation: https://nshipster.com/swift-documentation/
+  
+  
