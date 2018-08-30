@@ -61,3 +61,31 @@
   - Code Documentation: https://nshipster.com/swift-documentation/
   
   
+# Third Parties API
+  - Manage dependecies with CocoaPods: https://cocoapods.org
+  
+  - Alamofire: https://github.com/Alamofire/Alamofire
+  - AlamofireImage: https://github.com/Alamofire/AlamofireImage
+  - AlamofireNetworkActivityIndicator: https://github.com/Alamofire/AlamofireNetworkActivityIndicator
+  
+  - SwiftyJSON: https://github.com/SwiftyJSON/SwiftyJSON
+  - ObjectMapper: https://github.com/Hearst-DD/ObjectMapper
+  
+  - Realm: https://realm.io/docs/swift/latest
+  - Firebase: https://github.com/firebase/firebase-ios-sdk
+  
+  - DateTools: https://github.com/MatthewYork/DateTools
+  
+  - EmptyDataSet: https://github.com/dzenbot/DZNEmptyDataSet
+  
+  - CircularProgress: https://github.com/kaandedeoglu/KDCircularProgress
+  
+  - SkyFloatingLabelTextField: https://github.com/Skyscanner/SkyFloatingLabelTextField
+  
+  - Spring Animation: https://github.com/MengTo/Spring
+  
+  - Keychain: https://github.com/evgenyneu/keychain-swift
+  
+  - Star Rating: https://github.com/evgenyneu/Cosmos
+  
+  
