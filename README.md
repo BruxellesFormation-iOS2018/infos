@@ -60,6 +60,7 @@
   
   - Code Documentation: https://nshipster.com/swift-documentation/
   
+  - App Transport Security http/https : https://stackoverflow.com/a/31254874
   
 # Third Parties API
   - Manage dependecies with CocoaPods: https://cocoapods.org
